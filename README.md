@@ -1,5 +1,5 @@
 # hello-word
 Just a new respository
-Hello!
 
+Some thing new in the world.
 Here is the test for the item.
