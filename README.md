@@ -1,6 +1,6 @@
 # hello-word
 Just a new respository
-Hello!
 
-Crazy
+Some thing new in the world.
+
 Here is the test for the item.
